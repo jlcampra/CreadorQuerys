@@ -1,0 +1,14 @@
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.exe.config
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.exe
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.pdb
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.xml
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.frmMain.resources
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.Resources.resources
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.vbproj.GenerateResource.Cache
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.exe
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.xml
+C:\Users\Jose L Campra.SOBREMESA\Desktop\vs\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.pdb
+C:\git\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.exe.config
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.exe
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.xml
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.pdb
