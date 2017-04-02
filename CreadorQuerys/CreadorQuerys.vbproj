@@ -73,6 +73,7 @@
     <Compile Include="ClsArchivoTexto.vb" />
     <Compile Include="ClsExpedientes.vb" />
     <Compile Include="ClsDiccionario.vb" />
+    <Compile Include="ClsUpdate.vb" />
     <Compile Include="frmMain.vb">
       <SubType>Form</SubType>
     </Compile>

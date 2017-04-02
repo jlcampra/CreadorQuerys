@@ -6,6 +6,16 @@ Public Class ClsArchivoTexto
     Private _fsArchivoTxt As FileStream
     Private _srRchivoTxt As StreamReader
     Private _arrTexto As ArrayList
+    Private _strRutaSalida As String
+
+    Public Property StrRutaSalida As String
+        Get
+            Return _strRutaSalida
+        End Get
+        Set(value As String)
+            _strRutaSalida = value
+        End Set
+    End Property
 
     Public Property ArrTexto As ArrayList
         Get
@@ -16,17 +26,17 @@ Public Class ClsArchivoTexto
         End Set
     End Property
 
-    Public Sub CrearArchivo(strDirectorio As String)
-        ' Crear y sobreescribir el fichero de la variable strDirectorio
-        _fsArchivoTxt = File.Create(strDirectorio)
-    End Sub
+    Public Sub Escribir(arrQuerys As ArrayList)
+        If Not File.Exists(_strRutaSalida) Then
+            Using sw As StreamWriter = File.CreateText(_strRutaSalida)
+                For Each strQuery In arrQuerys
+                    sw.WriteLine(strQuery)
+                Next
+                sw.Close()
+                sw.Dispose()
 
-    Public Sub Escribir()
-        ' Add text to the file.
-        Dim info As Byte() = New UTF8Encoding(True).GetBytes("This is some text in the file.")
-        _fsArchivoTxt.Write(info, 0, info.Length)
-        _fsArchivoTxt.Close()
-        _fsArchivoTxt.Dispose()
+            End Using
+        End If
     End Sub
 
     Public Sub Leer(strDirectorio As String)

@@ -27,4 +27,7 @@
             _dicDiccionario.Add(_srtPrimerElemento, _strSegundoElemento)
         Next
     End Sub
+    Public Function DameSegundoElemento(lngPrimerElemento As Long) As String
+        Return _dicDiccionario.Item(lngPrimerElemento).ToString
+    End Function
 End Class

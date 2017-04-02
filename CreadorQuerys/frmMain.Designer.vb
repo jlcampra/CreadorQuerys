@@ -41,6 +41,7 @@ Partial Class frmMain
         Me.ClientSize = New System.Drawing.Size(271, 123)
         Me.Controls.Add(Me.btnCrear)
         Me.Name = "frmMain"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Creador Querys"
         Me.ResumeLayout(False)
 

@@ -12,3 +12,10 @@ C:\git\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.exe.config
 C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.exe
 C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.xml
 C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.pdb
+C:\git\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.exe
+C:\git\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.pdb
+C:\git\CreadorQuerys\CreadorQuerys\bin\Debug\CreadorQuerys.xml
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.vbprojResolveAssemblyReference.cache
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.frmMain.resources
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.Resources.resources
+C:\git\CreadorQuerys\CreadorQuerys\obj\Debug\CreadorQuerys.vbproj.GenerateResource.Cache
